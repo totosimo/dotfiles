@@ -74,3 +74,4 @@ if [ -f '/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion
 
 # adding olist for project week to pythonpath
 export PYTHONPATH="/Users/doich/code/totosimo/data-challenges/04-Decision-Science:$PYTHONPATH"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
